@@ -25,12 +25,14 @@ I want to start 'small':
 This 'thing' should:
 
 ~ Have two part, a portable back-end and intuitive front-end
+
 ~ Able to run local and on a server
 
 This 'thing' shouldn't:
 
 ~ Try to recreate youtube or whatever, the main focus should be 'me', not 'how to
-  keep me in this site as long as possible'
+  keep me in this site as long as possible'.
+
 ~ Try to 'cocky', if it doesn't know the answer, just say it
 
 Let's give it a try.
